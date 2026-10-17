@@ -4,7 +4,7 @@ Féléves beadandó a Biztonság és védelem tárgyhoz. A cím: *"Hogyan lehet 
 
 ## Miről szól?
 
-A dolgozat `LLM_biztonsag.pdf` az OWASP Top 10 for LLM listájából három kategóriát dolgoz fel részletesen: LLM01 (Prompt Injection), LLM02 (Insecure Output Handling) és LLM06 (Sensitive Information Disclosure). Végigmegy a technikai működésükön, valós incidenseken (pl. a Samsung-ügy, , vagy a Bing Chat / Sydney-eset), kockázatelemzésen, majd a védekezési lehetőségeken.
+A dolgozat `LLM_biztonsag.pdf` az OWASP Top 10 for LLM listájából három kategóriát dolgoz fel részletesen: LLM01 (Prompt Injection), LLM02 (Insecure Output Handling) és LLM06 (Sensitive Information Disclosure). Végigmegy a technikai működésükön, valós incidenseken (pl. a Samsung-ügy, az Air Canada-eset vagy a Bing Chat / Sydney-eset), kockázatelemzésen, majd a védekezési lehetőségeken.
 
 A cél nem az volt, hogy minden LLM-sérülékenységet lefedjek — ez a három kategória adta a fókuszt, mert ezek a legelterjedtebbek és legjobban dokumentáltak.
 
